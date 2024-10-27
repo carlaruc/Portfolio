@@ -1,0 +1,1 @@
+import{j as t}from"./jsx-runtime-K0qf73fL.js";function a({href:e,name:r,children:n}){return t.jsx("a",{href:e,target:"_blank",rel:"noreferrer",className:"flex font-medium text-blue-400 hover:text-blue-500 items-center justify-start",children:n??t.jsx("span",{children:r??e})})}export{a as E};
